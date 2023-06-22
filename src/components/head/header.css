@@ -1,0 +1,28 @@
+#ulist
+{  
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:space-between;
+    margin: 0px;
+}
+#ulist h1
+{
+    font-size: 30px;
+    align-items: center;
+    margin-left: 550px;
+}
+#ulist h2
+{
+    cursor: pointer;
+}
+#end
+{
+    margin-right: 50px;
+}
+#header
+{
+    margin: 0px;
+    background-color:rgb(30, 104, 174);
+    color: white;
+}
